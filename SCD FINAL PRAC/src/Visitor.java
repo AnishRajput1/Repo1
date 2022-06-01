@@ -66,7 +66,7 @@ public class Visitor
 		System.out.print(""+a.getSize());
 		Square s = new Square();
 		System.out.print(""+s.getSize());
-		
+		//helloo
 
 	}
 }
